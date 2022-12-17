@@ -1,5 +1,5 @@
 # STUDIO BAD DOG
-_-> SITIO WEB_ : https://edwardmelendezm.github.io/StudioBagDog/
+_-> SITIO WEB *TOTALMENTE RESPONSIVE*_ : https://edwardmelendezm.github.io/StudioBagDog/
 _Elaborado principalmente con *BOOTSTRAP*_
 
 # *Home*
@@ -17,9 +17,11 @@ _Elaborado principalmente con *BOOTSTRAP*_
 # *Interesados*
 [![05.jpg](https://i.postimg.cc/MT9mKf6m/05.jpg)](https://postimg.cc/hz7d2j7X)
 
-# _Desarrollado por Edward Melendez Mendigure_
-# _Curso desarrollado de youtube *canal: JONMICHAR*_
+_Desarrollado por Edward Melendez Mendigure_
+<br>
 
+_Curso desarrollado de youtube *canal: JONMICHAR*_
+<br>
 
 
 
